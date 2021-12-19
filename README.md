@@ -6,7 +6,7 @@ Saurabh Bodhe (20208545) <br>
 
 This code repo was build as a part of the kaggle competition 2 CropHarvest - crop vs. non-crop (Crop land detection from remote sensing data) IFT 6390 Machine Learning course. The goal of this project is to implement and train several classification algorithms. In this paper, we present a comparative study of different machine learning supervised classification techniques Logistic Regression, Random Forests, XGBoost, Extra Tress and Light Gradient Boosting (LGBM). 
 
-Best Model Public Score = 0.99757 Private Score = 0.99779
+Best Model Public Score = 0.99757 Private Score = 0.99779 (6/50)
 
 The code Kaggle2_Solution.ipynb requires numpy, pandas, matplotlib, seaborn, sklearn, optuna, catboost and many more libraries to run which are present in the Jupyter Notebook beforehand. 
 
